@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.register {
+  background-color: #fff;
+  max-width: max-content;
+  margin: 40px auto;
+  padding: 40px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+#email,
+#password,
+#password-confirm {
+  margin: 10px 0;
+  width: 100%;
+  padding: 8px 40px;
+  border-radius: 5px;
+}

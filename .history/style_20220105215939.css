@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.register {
+  background-color: #fff;
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 40px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+#email,
+#password,
+#password-confirm {
+  margin: 10px 0;
+  width: 100%;
+  padding: 8px 50px 8px 10px;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+.btn {
+  text-decoration: none;
+  background-color: #008000;
+  text-align: center;
+  color: white;
+  width: 100%;
+  display: block;
+  padding: 15px 0;
+  margin-top: 10px;
+  border-radius: 4px;
+}

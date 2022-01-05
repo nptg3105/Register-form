@@ -1,0 +1,13 @@
+.register {
+  background-color: #fff;
+  max-width: max-content;
+  margin: 0 auto;
+  padding: 40px;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+.title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+}

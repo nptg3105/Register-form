@@ -1,0 +1,6 @@
+.register {
+  background-color: aqua;
+  max-width: max-content;
+  margin: 0 auto;
+  padding: 40px;
+}
